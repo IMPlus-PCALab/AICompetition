@@ -11,7 +11,7 @@ This repo holds the AI competitions (**information**, **solutions**, **summaries
 > * [code(代码)](https://github.com/zcablii/jittor-Torile-PG_SPADE)
 > * [certificate(奖状)](https://github.com/IMPlus-PCALab/AICompetition/blob/main/certificate/2020%E5%BE%81%E9%80%94%E6%9D%AF%E6%A0%A1%E5%9B%AD%E6%9C%BA%E5%99%A8%E8%A7%86%E8%A7%89%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E8%B5%9B%E4%BA%9A%E5%86%9B.jpg) 
 <div align="left">
-<img src=https://github.com/IMPlus-PCALab/AICompetition/blob/main/certificate/2020%E5%BE%81%E9%80%94%E6%9D%AF%E6%A0%A1%E5%9B%AD%E6%9C%BA%E5%99%A8%E8%A7%86%E8%A7%89%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E8%B5%9B%E4%BA%9A%E5%86%9B.jpg width=100 height=200 />
+<img src=https://github.com/IMPlus-PCALab/AICompetition/blob/main/certificate/2020%E5%BE%81%E9%80%94%E6%9D%AF%E6%A0%A1%E5%9B%AD%E6%9C%BA%E5%99%A8%E8%A7%86%E8%A7%89%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E8%B5%9B%E4%BA%9A%E5%86%9B.jpg width=150 height=200 />
 </div>
 
 2020: &nbsp; **Second place** of Zhengtu Cup's first AI competition, 150,000 RMB bonus (**2st from 953 teams**)  
