@@ -27,7 +27,6 @@ This repo holds the AI competitions (**information**, **solutions**, **summaries
 
 2016: &nbsp; **Champion** of Didi Tech Di-Tech's first big data competition, 100,000 US dollars bonus (**1st from 7664 team**)  
 &emsp;&emsp;&emsp; 2016年度滴滴研究院首届大数据算法竞赛（出行预测）**冠军**，100,000 US奖金（**1/7664**）  
-> * summaries(竞赛经验总结) --TODO
 > * solutions(答辩) --TODO
 > * [code(代码)](https://github.com/microsoft/LightGBM)
 > * [certificate(奖状)](https://github.com/IMPlus-PCALab/AICompetition/blob/main/certificate/2016%E6%BB%B4%E6%BB%B4%E7%A0%94%E7%A9%B6%E9%99%A2%E5%A4%A7%E6%95%B0%E6%8D%AE%E7%AB%9E%E8%B5%9B%E5%86%A0%E5%86%9B.jpg
