@@ -9,7 +9,7 @@ This repo holds the AI competitions (**information**, **solutions**, **summaries
 > * summaries(竞赛经验总结)--TODO
 > * [solutions(答辩)](https://liveuclac-my.sharepoint.com/:p:/g/personal/zcablii_ucl_ac_uk/EeiiPOx1pmtNvEK5Fn4ShQcBXmzfvSQc9h0O9TVyh84CLA?e=rUlVaR)
 > * [code(代码)](https://github.com/zcablii/jittor-Torile-PG_SPADE)
-> * [award(奖状)]--TODO
+> * [certificate(奖状)]()--TODO
 
 2020: &nbsp; **Second place** of Zhengtu Cup's first AI competition, 150,000 RMB bonus (**2st from 953 teams**)  
 &emsp;&emsp;&emsp; 2020年度征途杯首届校园人工智能大赛（工业缺陷检测）**亚军**，150,000 RMB奖金（**2/953**）  
