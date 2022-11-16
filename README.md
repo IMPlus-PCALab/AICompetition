@@ -13,11 +13,10 @@ This repo holds the AI competitions (**information**, **solutions**, **summaries
 
 ------
 
-2020: &nbsp; **Second place** of Zhengtu Cup's first AI competition, 150,000 RMB bonus (**2st from 953 teams**)  
+2020: &nbsp; **Second place** of Zhengtu Cup's first AI competition, 150,000 RMB bonus (**2nd from 953 teams**)  
 &emsp;&emsp;&emsp; 2020年度征途杯首届校园人工智能大赛（工业缺陷检测）**亚军**，150,000 RMB奖金（**2/953**）  
-> * summaries(竞赛经验总结) --TODO
 > * [solutions(答辩)](https://docs.google.com/presentation/d/17s__jarQVl8GJt4g38rbs3Nn0Bnn1eWP/edit?usp=sharing&ouid=102362395923573296990&rtpof=true&sd=true)
-> * code(代码) --TODO
+> * code(代码) not available due to privacy terms
 > * [certificate(奖状)](https://github.com/IMPlus-PCALab/AICompetition/blob/main/certificate/2020%E5%BE%81%E9%80%94%E6%9D%AF%E6%A0%A1%E5%9B%AD%E6%9C%BA%E5%99%A8%E8%A7%86%E8%A7%89%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E8%B5%9B%E4%BA%9A%E5%86%9B.jpg) 
 <div align="left">
 <img src=https://github.com/IMPlus-PCALab/AICompetition/blob/main/certificate/2020%E5%BE%81%E9%80%94%E6%9D%AF%E6%A0%A1%E5%9B%AD%E6%9C%BA%E5%99%A8%E8%A7%86%E8%A7%89%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E8%B5%9B%E4%BA%9A%E5%86%9B.jpg width=150 height=200 />
