@@ -40,7 +40,7 @@ This repo holds the AI competitions (**information**, **solutions**, **summaries
 
 2015: &nbsp; **Champion** of Alibaba Tianchi's first big data competition, 300,000 RMB bonus (**1st from 7186 team**)  
 &emsp;&emsp;&emsp; 2015年度阿里巴巴天池首届大数据算法竞赛（推荐预测）**冠军**，300,000 RMB奖金（**1/7186**）  
-> * summaries(竞赛经验总结) --TODO
+> * [summaries(大数据之旅——纪念阿里大数据竞赛历程)](https://user.qzone.qq.com/674592809/blog/1440341684)
 > * solutions(答辩) --TODO
 > * [certificate(奖状)](https://github.com/IMPlus-PCALab/AICompetition/blob/main/certificate/2015%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E5%A4%A7%E6%95%B0%E6%8D%AE%E7%AB%9E%E8%B5%9B%E5%86%A0%E5%86%9B.png
 ) 
