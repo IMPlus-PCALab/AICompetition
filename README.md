@@ -6,7 +6,7 @@ This repo holds the AI competitions (**information**, **solutions**, **summaries
 
 2022: &nbsp; **Champion** of Jittor AI competition, 50,000 RMB bonus (**1st from 154 teams**)  
 &emsp;&emsp;&emsp; 2022年度计图人工智能挑战赛（语义风景图像生成赛道）**冠军**，50,000 RMB奖金（**1/154**）  
-> * summaries(竞赛经验总结) --TODO
+> * [summaries(竞赛经验总结)](https://zhuanlan.zhihu.com/p/583947132)
 > * [solutions(答辩)](https://liveuclac-my.sharepoint.com/:p:/g/personal/zcablii_ucl_ac_uk/EeiiPOx1pmtNvEK5Fn4ShQcBXmzfvSQc9h0O9TVyh84CLA?e=rUlVaR)
 > * [code(代码)](https://github.com/zcablii/jittor-Torile-PG_SPADE)
 > * certificate(奖状) --TODO
