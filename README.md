@@ -4,7 +4,7 @@ This repo holds the AI competitions (**information**, **solutions**, **summaries
 
 ## Overview
 
-2022: &nbsp; **Second place** of IACC International Algorithm Case Competition (Remote Sensing Object Detection Track), 100,000 RMB bonus (**2nd from 116 teams**)
+2022: &nbsp; **Second place** of IACC International Algorithm Case Competition (Remote Sensing Object Detection Track), 100,000 RMB bonus (**2nd from 116 teams**)  
 &emsp;&emsp;&emsp; 2022 粤港澳大湾区（黄埔）国际算法算例大赛（遥感图像物体目标检测赛道）**亚军**，100,000 RMB奖金（**2/116**）
 > * summaries(竞赛经验总结)
 >   * [Jittor 框架开发环境的 Docker 镜像制作](https://github.com/IMPlus-PCALab/AICompetition/blob/main/resource/jittor-docker.md)
