@@ -82,10 +82,11 @@ CUDA 的编译器，就是 nvcc，全称为 NVIDIA's CUDA Compiler。当然，�
 
 <table>
   <tr>
-    <center><img src="https://www.researchgate.net/profile/Irina-Mocanu-2/publication/227487008/figure/fig1/AS:669571841277957@1536649775213/The-CUDA-software-stack.png" style="width:50vw"></center>
+    <center><img src="https://raw.githubusercontent.com/YimianDai/imgbed/master/uPic/The-CUDA-software-stack.png" style="width:50vw"></center>
     <center>图 4 CUDA Driver API 与 Runtime API </center>
   </tr>
 </table>
+
 
 更详细的运行结构全景图如下所示：
 
