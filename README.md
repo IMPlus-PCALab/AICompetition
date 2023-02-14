@@ -6,7 +6,7 @@ This repo holds the AI competitions (**information**, **solutions**, **summaries
 
 2022: &nbsp; **Second place** of IACC International Algorithm Case Competition, 100,000 RMB bonus (**2nd from 116 teams**)  
 &emsp;&emsp;&emsp; 2022 粤港澳大湾区（黄埔）国际算法算例大赛（遥感目标检测赛道）**亚军**，100,000 RMB奖金（**2/116**）
-> * summaries(竞赛经验总结)
+> * [summaries(竞赛经验总结)](https://zhuanlan.zhihu.com/p/606220391)
 >   * [Jittor 框架开发环境的 Docker 镜像制作](https://github.com/IMPlus-PCALab/AICompetition/blob/main/resource/jittor-docker.md)
 > * [solutions(答辩)](https://liveuclac-my.sharepoint.com/:p:/g/personal/zcablii_ucl_ac_uk/ESVXSr5UH4RCi6mD-qR4CZ0BP82V-tI0TACXiTniaK41DQ?rtime=JXXMDPTZ2kg)
 > * [code(代码)](https://github.com/zcablii/RS_detection)
