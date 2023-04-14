@@ -10,7 +10,7 @@ This repo holds the AI competitions (**information**, **solutions**, **summaries
 >   * [Jittor 框架开发环境的 Docker 镜像制作](https://github.com/IMPlus-PCALab/AICompetition/blob/main/resource/jittor-docker.md)
 > * [solutions(答辩)](https://liveuclac-my.sharepoint.com/:p:/g/personal/zcablii_ucl_ac_uk/ESVXSr5UH4RCi6mD-qR4CZ0BP82V-tI0TACXiTniaK41DQ?rtime=JXXMDPTZ2kg)
 > * [code(代码)](https://github.com/zcablii/RS_detection)
-> * [certificate(奖状)](https://github.com/IMPlus-PCALab/AICompetition/blob/46ee80896c3a9fdd3ce005432d5890a591efd3aa/certificate/2022%E7%B2%A4%E6%B8%AF%E6%BE%B3%E5%A4%A7%E6%B9%BE%E5%8C%BA%EF%BC%88%E9%BB%84%E5%9F%94%EF%BC%89%E5%9B%BD%E9%99%85%E7%AE%97%E6%B3%95%E7%AE%97%E4%BE%8B%E5%A4%A7%E8%B5%9B%E9%81%A5%E6%84%9F%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E8%B5%9B%E9%81%93%E4%BA%9A%E5%86%9B.jpg）
+> * [certificate(奖状)](https://github.com/IMPlus-PCALab/AICompetition/blob/46ee80896c3a9fdd3ce005432d5890a591efd3aa/certificate/2022%E7%B2%A4%E6%B8%AF%E6%BE%B3%E5%A4%A7%E6%B9%BE%E5%8C%BA%EF%BC%88%E9%BB%84%E5%9F%94%EF%BC%89%E5%9B%BD%E9%99%85%E7%AE%97%E6%B3%95%E7%AE%97%E4%BE%8B%E5%A4%A7%E8%B5%9B%E9%81%A5%E6%84%9F%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E8%B5%9B%E9%81%93%E4%BA%9A%E5%86%9B.jpg)
 
 ------
 
