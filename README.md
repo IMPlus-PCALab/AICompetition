@@ -18,7 +18,7 @@ This repo holds the AI competitions (**information**, **solutions**, **summaries
 > * [summaries(竞赛经验总结)](https://zhuanlan.zhihu.com/p/583947132)
 > * [solutions(答辩)](https://liveuclac-my.sharepoint.com/:p:/g/personal/zcablii_ucl_ac_uk/EeiiPOx1pmtNvEK5Fn4ShQcBXmzfvSQc9h0O9TVyh84CLA?e=rUlVaR)
 > * [code(代码)](https://github.com/zcablii/jittor-Torile-PG_SPADE)
-> * certificate(奖状) --TODO
+> * [certificate(奖状)](https://github.com/IMPlus-PCALab/AICompetition/blob/76b90118ea185c829f6dfc45ff24837af58f349a/certificate/2022%E8%AE%A1%E5%9B%BE%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%8C%91%E6%88%98%E8%B5%9B%E5%86%A0%E5%86%9B.jpg)
 
 ------
 
