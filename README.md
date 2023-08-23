@@ -14,6 +14,15 @@ This repo holds the AI competitions (**information**, **solutions**, **summaries
 
 ------
 
+2022: &nbsp; **Third place** of IACC International Algorithm Case Competition, 40,000 RMB bonus (**8th from 44 teams**)  
+&emsp;&emsp;&emsp; 2022 粤港澳大湾区（黄埔）国际算法算例大赛（古籍文档图像识别与分析赛道）**三等奖**，40,000 RMB奖金（**8/44**）
+> * [summaries(说明文档)](https://docs.qq.com/doc/DWk9IZ2JYVnNyc0hM)
+> * [solutions(答辩)](https://www.bilibili.com/video/BV1v8411V7EY/?share_source=copy_web&vd_source=457e2598ee2f3d062c51669797f24492)
+> * [code(代码)](https://github.com/ssocean/AlphX-Code-For-DAR)
+> * [certificate(奖状)](certificate/2022%E7%B2%A4%E6%B8%AF%E6%BE%B3%E5%A4%A7%E6%B9%BE%E5%8C%BA%EF%BC%88%E9%BB%84%E5%9F%94%EF%BC%89%E5%9B%BD%E9%99%85%E7%AE%97%E6%B3%95%E7%AE%97%E4%BE%8B%E5%A4%A7%E8%B5%9B%E5%8F%A4%E7%B1%8D%E6%96%87%E6%A1%A3%E5%9B%BE%E5%83%8F%E8%AF%86%E5%88%AB%E4%B8%8E%E5%88%86%E6%9E%90%E7%AE%97%E6%B3%95%E4%B8%89%E7%AD%89%E5%A5%96.jpg)
+
+------
+
 2022: &nbsp; **Champion** of Jittor AI competition, 50,000 RMB bonus (**1st from 154 teams**)  
 &emsp;&emsp;&emsp; 2022年度计图人工智能挑战赛（语义风景图像生成赛道）**冠军**，50,000 RMB奖金（**1/154**）  
 > * [summaries(竞赛经验总结)](https://zhuanlan.zhihu.com/p/583947132)
