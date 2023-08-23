@@ -15,7 +15,7 @@ This repo holds the AI competitions (**information**, **solutions**, **summaries
 ------
 
 2022: &nbsp; **Third place** of IACC International Algorithm Case Competition, 40,000 RMB bonus (**8th from 44 teams**)  
-&emsp;&emsp;&emsp; 2022 粤港澳大湾区（黄埔）国际算法算例大赛（古籍文档图像识别与分析赛道）**三等奖**，40,000 RMB奖金（**8/44**）
+&emsp;&emsp;&emsp; 2022 粤港澳大湾区（黄埔）国际算法算例大赛（古籍文档图像赛道）**三等奖**，40,000 RMB奖金（**8/44**）
 > * [summaries(说明文档)](https://docs.qq.com/doc/DWk9IZ2JYVnNyc0hM)
 > * [solutions(答辩)](https://www.bilibili.com/video/BV1v8411V7EY/?share_source=copy_web&vd_source=457e2598ee2f3d062c51669797f24492)
 > * [code(代码)](https://github.com/ssocean/AlphX-Code-For-DAR)
