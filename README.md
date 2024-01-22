@@ -4,6 +4,14 @@ This repo holds the AI competitions (**information**, **solutions**, **summaries
 
 ## Overview
 
+2023: &nbsp; **Third prize** of Jittor AI competition, 10,000 RMB bonus (**4th from 109 teams**)  
+&emsp;&emsp;&emsp; 2023年度计图人工智能挑战赛（风格及语义引导的风景图片生成赛题）**三等奖**，10,000 RMB奖金（**4/109**）  
+> * [solutions(答辩)](https://docs.google.com/presentation/d/1K24btQSGviN7ixvvuR4T_1yn0-aF3mVE/edit?usp=sharing&ouid=116115404543751263137&rtpof=true&sd=true)
+> * [code(代码)](https://github.com/zhasion/jittor-SecretWeapon-GauGan)
+> * [certificate(奖状)](https://github.com/IMPlus-PCALab/AICompetition/blob/main/certificate/2023%E8%AE%A1%E5%9B%BE%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%8C%91%E6%88%98%E8%B5%9B%E4%B8%89%E7%AD%89%E5%A5%96.jpg)
+
+------
+
 2022: &nbsp; **Second place** of IACC International Algorithm Case Competition, 100,000 RMB bonus (**2nd from 116 teams**)  
 &emsp;&emsp;&emsp; 2022 粤港澳大湾区（黄埔）国际算法算例大赛（遥感目标检测赛道）**亚军**，100,000 RMB奖金（**2/116**）
 > * [summaries(竞赛经验总结)](https://zhuanlan.zhihu.com/p/614449075)
