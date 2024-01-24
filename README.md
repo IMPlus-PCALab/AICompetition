@@ -5,7 +5,7 @@ This repo holds the AI competitions (**information**, **solutions**, **summaries
 ## Overview
 
 2023: &nbsp; **Third prize** of "Jilin-1" Satellite Remote Sensing Application Youth Innovation and Entrepreneurship Competition, (**5th from 110 teams**)  
-&emsp;&emsp;&emsp; 2023"吉林一号"杯卫星遥感应用青年创新创业大赛（基于高分辨率卫星影像的耕地变化检测赛题）**三等奖**, （**5/110**）  
+&emsp;&emsp;&emsp; 2023"吉林一号"杯卫星遥感应用青年创新创业大赛（基于高分辨率卫星影像的耕地变化检测赛题）**三等奖**, (**5/110**)
 > * solutions(答辩) --NONE
 > * [code(代码)](https://github.com/DanyangLihhh/Cultivated-land-change-detection)
 > * [summaries(说明文档)](https://github.com/DanyangLihhh/Cultivated-land-change-detection/blob/main/%E6%8A%80%E6%9C%AF%E6%96%87%E6%A1%A3.pdf)
