@@ -13,7 +13,8 @@ This repo holds the AI competitions (**information**, **solutions**, **summaries
 ------
 
 2023: &nbsp; **Second prize** of Jittor AI competition, 20,000 RMB bonus (**3th from 49 teams**)  
-&emsp;&emsp;&emsp; 2023年度计图人工智能挑战赛（大规模无监督语义分割赛题）**二等奖**，20,000 RMB奖金（**3/49**）  
+&emsp;&emsp;&emsp; 2023年度计图人工智能挑战赛（大规模无监督语义分割赛题）**二等奖**，20,000 RMB奖金（**3/49**）
+第六届开源创新大赛开源任务挑战赛道二等奖
 > * [solutions(答辩)](https://docs.google.com/presentation/d/1dGCrVgahOedlZOG39SkQG2bvBo0D3wEo/edit?usp=sharing&ouid=117231763684180453695&rtpof=true&sd=true)
 > * [code(代码)](https://github.com/Rose-41/USS-jittor)
 > * [certificate(奖状)](https://github.com/IMPlus-PCALab/AICompetition/blob/main/certificate/2023%E8%AE%A1%E5%9B%BE%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%8C%91%E6%88%98%E8%B5%9B%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%97%A0%E7%9B%91%E7%9D%A3%E8%AF%AD%E4%B9%89%E5%88%86%E5%89%B2%E4%BA%8C%E7%AD%89%E5%A5%96.jpg)
